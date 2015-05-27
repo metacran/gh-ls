@@ -1,4 +1,4 @@
-# gh-user [![Build Status](https://travis-ci.org/metacran/gh-ls.svg?branch=master)](https://travis-ci.org/metacran/gh-ls)
+# gh-ls [![Build Status](https://travis-ci.org/metacran/gh-ls.svg?branch=master)](https://travis-ci.org/metacran/gh-ls)
 
 > Get list of files form a GitHub repository
 
